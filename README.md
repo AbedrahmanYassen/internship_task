@@ -1,16 +1,6 @@
 # internship_task
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1665672398](https://user-images.githubusercontent.com/78448350/195629674-9ab0758e-f4fb-4150-b652-474788bba6a2.png)
+![Screenshot_1665672358](https://user-images.githubusercontent.com/78448350/195629744-178a7c24-6938-41ae-ba34-7f0ef739633e.png)
+![Screenshot_1665672381](https://user-images.githubusercontent.com/78448350/195629773-3a4d041c-cb4c-4e79-8c44-f60fa98b5525.png)
